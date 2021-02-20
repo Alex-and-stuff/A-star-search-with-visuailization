@@ -8,4 +8,4 @@ so after finishing the path planning program for Eurobot, I thought it would be 
  this is not the optimal solution, but it made it so that I did not need to do too many changes to the original path planning program and also it was easier to do CV in python for  me.
 
 # Steps
-so basically you can initalize the positions and obstacles in the main.c file and then compile. after running the exe program, you will see that the program stops at each search and produces a .txt file. Run the python code and you will get a visualization of the path planning program and also a refined path using an alteration of breseham's line algorithom
+so basically you can initalize the positions and obstacles in the main.c file and then compile. after running the exe program, you will see that the program stops at each search and produces a .txt file. Run the python file and you will get a visualization of the path planning program and also a refined path using an alteration of breseham's line algorithom
